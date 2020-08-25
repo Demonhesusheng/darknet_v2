@@ -42,7 +42,7 @@ data/obj/Image/v1/1445.jpg
 data/obj/Image/v1/1490.jpg
 data/obj/Image/v3/100.jpg
 data/obj/Image/v3/145.jpg
-data/obj/Image/v3/189.jpg
+data/obj/Image/v3/190.jpg
 data/obj/Image/v3/235.jpg
 data/obj/Image/v3/280.jpg
 data/obj/Image/v3/325.jpg
